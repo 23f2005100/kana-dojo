@@ -24,7 +24,7 @@
     "meaning": "Slow to start doing something. (Set 1)",
     "id": 3,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "顔が広い",
@@ -41,7 +41,7 @@
     "english": "Tight-lipped",
     "meaning": "Can keep secrets. (Set 1)",
     "id": 5,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
